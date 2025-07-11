@@ -1,47 +1,111 @@
 <h1 align="center">👾 Exasolver</h1>
 <p align="center">
-  🛡️ Ethical Hacker • 🧠 Cybersecurity Enthusiast • 👨‍💻 Open Source Developer  
+  🛡️ Ethical Hacker • 🧠 Cybersecurity Enthusiast • 👨‍💻 Open Source Builder  
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Ethical+Hacking+in+Python...;Building+Open+Source+Recon+Tools...;Exploring+Digital+Defense+and+Automation...;Knowledge+is+Power+%F0%9F%94%91" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🔍 About Me
+## 🧠 About Me
 
-- 💻 Passionate about **ethical hacking**, automation, and digital defense  
-- 🧠 Learning by building real-world tools and contributing to the community  
-- 🛠️ Focused on creating tools for recon, scanning, and awareness  
-- 🌱 Currently exploring **Python**, **Bash**, and **Termux-based dev**  
+```bash
+> whoami
+Exasolver — cybersecurity explorer & ethical toolmaker
+
+> mission
+Build, learn, and open-source security tools for everyone
+
+> mindset
+Break • Understand • Secure 🛡️
+
+> now
+⚙️ Automating recon | 🐍 Python Scripting | 📱 Termux CLI
+```
 
 ---
 
-### 🚀 Projects
+## 🚀 Projects
 
-- 🔐 [NetScanPro](https://github.com/Exasolver/NetScanPro): All-in-one Python-based network scanner  
-- 📍 Subdomain Finder + IP Tracker tool (Coming Soon...)  
-- 📁 More ethical tools dropping soon...
+🛠️ **Featured Tool:**  
+- 🔐 [NetScanPro](https://github.com/Exasolver/NetScanPro): Python-powered all-in-one network scanner (ports, banners, IPs)
+
+🧰 **Upcoming Releases:**  
+- 🌐 Subdomain Finder + Geo-IP Tracker  
+- 🧠 Termux Automation Framework  
+- 🕵️ Passive Info Gathering CLI  
+- More dropping soon...
 
 ---
 
-### 📫 Connect With Me
+## 💻 Tech Stack
 
-<p align="left">
-  <a href="https://github.com/Exasolver" target="_blank">
-    <img src="https://img.shields.io/github/followers/Exasolver?label=GitHub&style=social" alt="GitHub">
+<div align="center">
+
+| Language | Tool | Platform |
+|----------|------|----------|
+| ![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python) | ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git) | ![Termux](https://img.shields.io/badge/-Termux-0D1117?style=flat&logo=android) |
+| ![Bash](https://img.shields.io/badge/-Bash-0D1117?style=flat&logo=gnu-bash) | ![VSCode](https://img.shields.io/badge/-VSCode-0D1117?style=flat&logo=visual-studio-code) | ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=flat&logo=linux) |
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Exasolver&show_icons=true&theme=tokyonight&hide_border=true&custom_title=Exasolver%20Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Exasolver&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exasolver&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📡 Contribution Heatmap
+
+[![Exasolver's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Exasolver&theme=tokyo-night&hide_border=true)](https://github.com/Exasolver)
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://github.com/Exasolver">
+    <img src="https://img.shields.io/github/followers/Exasolver?label=Follow&style=social" alt="GitHub">
   </a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+<details>
+<summary>📜 Hacker ASCII Terminal</summary>
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  
-![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash)  
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)  
-![Termux](https://img.shields.io/badge/-Termux-05122A?style=flat&logo=android)
+```
+      ▄████▄   ▒█████   ██ ▄█▀ ▄▄▄       ▄████▄  
+     ▒██▀ ▀█  ▒██▒  ██▒ ██▄█▒ ▒████▄    ▒██▀ ▀█  
+     ▒▓█    ▄ ▒██░  ██▒▓███▄░ ▒██  ▀█▄  ▒▓█    ▄ 
+     ▒▓▓▄ ▄██▒▒██   ██░▓██ █▄ ░██▄▄▄▄██ ▒▓▓▄ ▄██▒
+     ▒ ▓███▀ ░░ ████▓▒░▒██▒ █▄ ▓█   ▓██▒▒ ▓███▀ ░
+     ░ ░▒ ▒  ░░ ▒░▒░▒░ ▒ ▒▒ ▓▒ ▒▒   ▓▒█░░ ░▒ ▒  ░
+       ░  ▒     ░ ▒ ▒░ ░ ░▒ ▒░  ▒   ▒▒ ░  ░  ▒   
+     ░        ░ ░ ░ ▒  ░ ░░ ░   ░   ▒   ░        
+     ░ ░          ░ ░  ░  ░         ░  ░░ ░      
+     ░                                      ░    
+
+            Ethical Hacking | Automation | Awareness
+```
+
+</details>
 
 ---
 
-### ⚡ Fun Fact
-
-> I break things to make them safer. 🕵️‍♂️  
-> Learning never stops — and neither do attacks. Stay sharp. 🔐
+🧠 *“In cybersecurity, the most dangerous thing is not knowing.”*  
+🔐 *So I build, test, learn — and share. Join me on the journey.*
