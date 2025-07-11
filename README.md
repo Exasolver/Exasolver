@@ -1,10 +1,10 @@
 <h1 align="center">👾 Exasolver</h1>
 <p align="center">
-  🛡️ Ethical Hacker • 🧠 Cybersecurity Enthusiast • 👨‍💻 Open Source Builder  
+  🧠 Ethical Hacker | 🛠️ Open Source Developer | 🔐 Cybersecurity Explorer  
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Ethical+Hacking+in+Python...;Building+Open+Source+Recon+Tools...;Exploring+Digital+Defense+and+Automation...;Knowledge+is+Power+%F0%9F%94%91" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Building+ethical+hacking+tools...;Automating+recon+and+OSINT...;Breaking+to+secure+%F0%9F%94%91;Exploring+networks+with+Python+%26+Bash" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,57 +13,35 @@
 
 ```bash
 > whoami
-Exasolver — cybersecurity explorer & ethical toolmaker
+Exasolver — Cybersecurity enthusiast & ethical tool developer
+
+> skills
+Python 🐍 | Bash 🖥️ | Linux 🧬 | Termux 📱 | Git 🔧
+
+> tools
+Recon | Port Scan | Banner Grabbing | Automation
 
 > mission
-Build, learn, and open-source security tools for everyone
-
-> mindset
-Break • Understand • Secure 🛡️
-
-> now
-⚙️ Automating recon | 🐍 Python Scripting | 📱 Termux CLI
+Open-source knowledge + Hacker mindset = Digital defense
 ```
 
 ---
 
-## 🚀 Projects
-
-🛠️ **Featured Tool:**  
-- 🔐 [NetScanPro](https://github.com/Exasolver/NetScanPro): Python-powered all-in-one network scanner (ports, banners, IPs)
-
-🧰 **Upcoming Releases:**  
-- 🌐 Subdomain Finder + Geo-IP Tracker  
-- 🧠 Termux Automation Framework  
-- 🕵️ Passive Info Gathering CLI  
-- More dropping soon...
-
----
-
-## 💻 Tech Stack
+## 🧰 Tech Stack
 
 <div align="center">
-
-| Language | Tool | Platform |
-|----------|------|----------|
-| ![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python) | ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git) | ![Termux](https://img.shields.io/badge/-Termux-0D1117?style=flat&logo=android) |
-| ![Bash](https://img.shields.io/badge/-Bash-0D1117?style=flat&logo=gnu-bash) | ![VSCode](https://img.shields.io/badge/-VSCode-0D1117?style=flat&logo=visual-studio-code) | ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=flat&logo=linux) |
-
+  <img src="https://skillicons.dev/icons?i=kali,python,bash,linux,github,vscode,git,android" alt="Skill Icons" />
 </div>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Exasolver&show_icons=true&theme=tokyonight&hide_border=true&custom_title=Exasolver%20Stats" />
-</p>
-
-<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Exasolver&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Exasolver&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
+  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exasolver&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -77,7 +55,7 @@ Break • Understand • Secure 🛡️
 
 ## 🌐 Connect With Me
 
-<p>
+<p align="center">
   <a href="https://github.com/Exasolver">
     <img src="https://img.shields.io/github/followers/Exasolver?label=Follow&style=social" alt="GitHub">
   </a>
@@ -86,26 +64,21 @@ Break • Understand • Secure 🛡️
 ---
 
 <details>
-<summary>📜 Hacker ASCII Terminal</summary>
+<summary>🧠 Hacker Terminal Badge (Click to expand)</summary>
 
 ```
-      ▄████▄   ▒█████   ██ ▄█▀ ▄▄▄       ▄████▄  
-     ▒██▀ ▀█  ▒██▒  ██▒ ██▄█▒ ▒████▄    ▒██▀ ▀█  
-     ▒▓█    ▄ ▒██░  ██▒▓███▄░ ▒██  ▀█▄  ▒▓█    ▄ 
-     ▒▓▓▄ ▄██▒▒██   ██░▓██ █▄ ░██▄▄▄▄██ ▒▓▓▄ ▄██▒
-     ▒ ▓███▀ ░░ ████▓▒░▒██▒ █▄ ▓█   ▓██▒▒ ▓███▀ ░
-     ░ ░▒ ▒  ░░ ▒░▒░▒░ ▒ ▒▒ ▓▒ ▒▒   ▓▒█░░ ░▒ ▒  ░
-       ░  ▒     ░ ▒ ▒░ ░ ░▒ ▒░  ▒   ▒▒ ░  ░  ▒   
-     ░        ░ ░ ░ ▒  ░ ░░ ░   ░   ▒   ░        
-     ░ ░          ░ ░  ░  ░         ░  ░░ ░      
-     ░                                      ░    
 
-            Ethical Hacking | Automation | Awareness
+                                                       
+ _______  __   _    ____   ___  _ __     _______ ____  
+| ____\ \/ /  / \  / ___| / _ \| |\ \   / | ____|  _ \ 
+|  _|  \  /  / _ \ \___ \| | | | | \ \ / /|  _| | |_) |
+| |___ /  \ / ___ \ ___) | |_| | |__\ V / | |___|  _ < 
+|_____/_/\_/_/   \_|____/ \___/|_____\_/  |_____|_| \_\
+
+
 ```
 
 </details>
 
----
-
-🧠 *“In cybersecurity, the most dangerous thing is not knowing.”*  
-🔐 *So I build, test, learn — and share. Join me on the journey.*
+> 💬 *“In cybersecurity, offense teaches defense. I build to break, and break to secure.”*  
+> – **Exasolver**
